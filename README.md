@@ -1,4 +1,5 @@
 # Kanban-Task-Board
+![]assets/images/Kanban-Task-Board.gif
 
 ## Overview
 Task Board is a simple and efficient Kanban board for task management. It allows users to add, delete, and move tasks across different statuses: "To Do", "In Progress", and "Done". This project leverages HTML, CSS, JavaScript, jQuery, and Bootstrap to provide a user-friendly interface and local storage for data persistence.
